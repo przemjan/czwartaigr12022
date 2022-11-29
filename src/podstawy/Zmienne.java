@@ -44,6 +44,7 @@ public class Zmienne {
         potega = Math.pow(2, 3);
 
 
+        // https://github.com/przemjan/czwartaigr12022
 
     }
 }
