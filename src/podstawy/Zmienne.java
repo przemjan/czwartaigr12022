@@ -46,5 +46,7 @@ public class Zmienne {
 
         // https://github.com/przemjan/czwartaigr12022
 
+        // ubuckp
+
     }
 }
