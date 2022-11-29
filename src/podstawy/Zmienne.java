@@ -48,5 +48,7 @@ public class Zmienne {
 
         // ubuckp
 
+        //5,6,8,13,21
+
     }
 }
