@@ -40,7 +40,7 @@ public class Zmienne {
         double liczba5 = 3;
         double potega;
 
-        //2 do trzeciej
+        // 2 do trzeciej
         potega = Math.pow(2, 3);
 
 
@@ -48,7 +48,12 @@ public class Zmienne {
 
         // ubuckp
 
-        //5,6,8,13,21
+        // 5,6,8,13,21
+        // Tworzenie i testowanie programów i aplikacji
+
+        //petleWstep 1,2, 12,13,14
+
+        //zadania7:  2,3, 5,6, 8, 17,18, 21, 22, 23
 
     }
 }

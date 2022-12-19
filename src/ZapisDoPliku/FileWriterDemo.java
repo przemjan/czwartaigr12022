@@ -18,7 +18,7 @@ public class FileWriterDemo {
 
         PrintWriter pw = new PrintWriter(fw);
 
-        pw.println("Ty jesteś jak zdrowie");
+        pw.println("Jest ciemno");
 
         pw.close();
 
